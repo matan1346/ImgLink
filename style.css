@@ -1,0 +1,21 @@
+.ResultHolding
+{
+    border: 1px solid red;
+    width:  500px;
+    height: 500px;
+}
+
+.ImgLinked
+{
+    width: 100%;height: 100%;
+}
+
+.ImgLinked .ImgTextAttached
+{
+    
+}
+
+.ImgLinked .ImgTextAttached a
+{
+    
+}
